@@ -1,0 +1,14 @@
+{
+  "name": "Example Website",
+  "url": "https://www.example.com",
+  "owner": {
+    "firstName": "John",
+    "lastName": "Doe"
+  },
+  "isActive": true,
+  "pages": ["Home", "About Us", "Contact"],
+  "contactInfo": {
+    "email": "info@example.com",
+    "phone": "+1234567890"
+  }
+}
